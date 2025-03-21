@@ -1,0 +1,395 @@
+nohup: ignoring input
+
+> vc-lottry@0.0.0 start
+> vite --host --port 3000
+
+
+  VITE v5.3.3  ready in 637 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://84.54.23.238:3000/
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/.env, use /.env.
+Files in the public directory are served at the root path.
+Instead of /public/client/planinfo, use /client/planinfo.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php, use /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php.
+Files in the public directory are served at the root path.
+Instead of /public/index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello, use /index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php, use /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php.
+Files in the public directory are served at the root path.
+Instead of /public/index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello, use /index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php, use /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php.
+Files in the public directory are served at the root path.
+Instead of /public/index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello, use /index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/.git/config, use /.git/config.
+Files in the public directory are served at the root path.
+Instead of /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php, use /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php.
+Files in the public directory are served at the root path.
+Instead of /public/index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello, use /index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello.
+Files in the public directory are served at the root path.
+Instead of /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php, use /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php.
+Files in the public directory are served at the root path.
+Instead of /public/index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello, use /index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php, use /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php.
+Files in the public directory are served at the root path.
+Instead of /public/index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello, use /index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/.git/config, use /.git/config.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php, use /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php.
+Files in the public directory are served at the root path.
+Instead of /public/index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello, use /index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php, use /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php.
+Files in the public directory are served at the root path.
+Instead of /public/index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello, use /index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php, use /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php.
+Files in the public directory are served at the root path.
+Instead of /public/index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello, use /index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello.
+Files in the public directory are served at the root path.
+Instead of /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php, use /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php.
+Files in the public directory are served at the root path.
+Instead of /public/index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello, use /index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello.
+Files in the public directory are served at the root path.
+Instead of /public/.git/config, use /.git/config.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/.env, use /.env.
+Files in the public directory are served at the root path.
+Instead of /public/js/main.js, use /js/main.js.
+Files in the public directory are served at the root path.
+Instead of /public/.env, use /.env.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php, use /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php.
+Files in the public directory are served at the root path.
+Instead of /public/index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello, use /index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello.
+Files in the public directory are served at the root path.
+Instead of /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php, use /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php.
+Files in the public directory are served at the root path.
+Instead of /public/index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello, use /index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/winner1.png, use /winner1.png.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
+Files in the public directory are served at the root path.
+Instead of /public/vite.svg, use /vite.svg.
